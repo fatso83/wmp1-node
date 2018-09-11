@@ -1,6 +1,9 @@
 # Node lib for Casio WMP1
 > Simple client library for controlling the Casio WMP1.
 
+# CAVEAT: this is not ready!
+I have just started poking around with libusb. This is just my first commits.
+
 ## Installing
 
 ### Linux device permissions
