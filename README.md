@@ -2,7 +2,7 @@
 > Simple client library for controlling the Casio WMP1.
 
 # CAVEAT: this is not ready!
-I have just started poking around with libusb. This is just my first commits.
+I have just started poking around with libusb. This is just my first commits. The original project from 2005 in C can be found at https://github.com/fatso83/casio-wmp1.
 
 ## Installing
 
